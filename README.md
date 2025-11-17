@@ -28,5 +28,4 @@ To build a predictive model that estimates student performance using supervised 
 
 ---
 
-## 📂 Project Structure
  
